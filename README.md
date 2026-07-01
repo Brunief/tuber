@@ -7,6 +7,7 @@
   <img alt="License: Apache-2.0" src="https://img.shields.io/badge/License-Apache--2.0-blue">
   <img alt="Runs locally" src="https://img.shields.io/badge/Runs-locally-brightgreen">
   <img alt="PNG only" src="https://img.shields.io/badge/Avatar-PNG%20only-orange">
+  <a href="https://github.com/sponsors/rotejin"><img alt="Sponsor rotejin" src="https://img.shields.io/badge/Sponsor-rotejin-ea4aaa?logo=githubsponsors&logoColor=white"></a>
 </p>
 
 <p align="center">
